@@ -11,9 +11,9 @@
     <li>H2;</li>
     <li>PostgreSQL.</li>
   </ul>
-  <li>outras tecnologias como HTML, CSS, TypeScript, Bootstrap</li>
+  <li>outras tecnologias como HTML, CSS, TypeScript, Bootstrap, netlify</li>
 </ul>
-<br><hr><br>
+<br><hr>
 <h3>Principais problemas no decorrer do projeto</h3>
 <p>Devido a ERROS cometido meu projeto foi entregue com dois dias de atraso não sendo mais possivel solicitar o certificado de participação, na minha opinão o mais importante foi solucionar os problemas que apareceram ao longo do projeto.</p>
 <p>Os problemas foram bem variados conflitos entre Banco de Dados que eu ja tinha na maquina, erro na hora de baixar as dependências, tive que mudar a porta 8080 ja esta sendo usada e isso deu trabalho descobrir, fazer a publicação na web algo que ainda não tinha feito cometi alguns erros basicos.</p>
