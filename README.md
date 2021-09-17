@@ -17,7 +17,7 @@
 <br><hr>
 <div>
   <h2>Dashbord de Vendas com atualização em tempo de execução</h2>
-  <img src="Dashbord_venda.png">
+  <img src="Dashbord_venda.png" alt="Imagem do dashbord do site gráfico de barra e rosco">
   
 </div>
 <br><hr>
