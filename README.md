@@ -16,8 +16,7 @@
 </ul>
 <br><hr>
 <div>
-  <img href="![image](https://user-images.githubusercontent.com/75572789/133823076-c5fc77ad-4851-4fee-99bb-58deec43a906.png)
-">
+  <img src="">
 </div>
 <br><hr>
 <h3>Principais problemas no decorrer do projeto</h3>
