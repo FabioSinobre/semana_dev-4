@@ -17,7 +17,7 @@ public class SellerDTO implements Serializable {
 		this.id = id;
 		this.name = name;
 	}
-	public SellerDTO(Seller entity) {
+	public SellerDTO(Seller entity) {//este constutor serve para copiar os dados para um dto
 		this.id = entity.getId();
 		this.name = entity.getName();
 	}

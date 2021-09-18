@@ -44,7 +44,13 @@ public class Seller {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
-	
-
+	public List<Sale> getSale(){
+		return sales;
+	}
+	public void addSale(Sale sales) {
+		this.sales.add(sales);
+	}
+	public void removeSale(Sale sales) {
+		this.sales.remove(sales);
+	}
 }
