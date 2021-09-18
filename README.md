@@ -3,7 +3,7 @@
 <h2>Curso semana DevSuperior 4º edição</h2>
 <p>O evento realizado abordou conceitos de programação extruturada em camadas e sua importancia, ferramentas utilizadas:</p>
 <ul>
-  <li>yarn --> gerenciador de dependências;</li>
+  <li>yarn --> gerenciador de pacotes;</li>
   <li>Visual Studio Code --> criação do frontend;</li>
   <li>Spring ToolSuite --> desenvolvimento do backend;</li>
   <li>Banco de dados para teste e imprementação;</li>
@@ -11,8 +11,15 @@
     <li>H2;</li>
     <li>PostgreSQL.</li>
   </ul>
-  <li>outras tecnologias como HTML, CSS, TypeScript, Bootstrap, netlify</li>
+  <li>Outras tecnologias como HTML, CSS, TypeScript, Bootstrap;</li>
+  <li>Netlify --> Provedo de publicação web.</li>
 </ul>
+<br><hr>
+<div>
+  <h2>Dashbord de Vendas com atualização em tempo de execução</h2>
+  <img src="Dashbord_venda.png" alt="Imagem do dashbord do site gráfico de barra e rosco">
+  
+</div>
 <br><hr>
 <h3>Principais problemas no decorrer do projeto</h3>
 <p>Devido a ERROS cometido meu projeto foi entregue com dois dias de atraso não sendo mais possivel solicitar o certificado de participação, na minha opinão o mais importante foi solucionar os problemas que apareceram ao longo do projeto.</p>
