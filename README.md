@@ -11,8 +11,8 @@
     <li>H2;</li>
     <li>PostgreSQL.</li>
   </ul>
-  <li>outras tecnologias como HTML, CSS, TypeScript, Bootstrap</li>
-  <li>Netlify --> Provedo de publicação web</li>
+  <li>Outras tecnologias como HTML, CSS, TypeScript, Bootstrap;</li>
+  <li>Netlify --> Provedo de publicação web.</li>
 </ul>
 <br><hr>
 <div>
