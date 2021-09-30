@@ -11,7 +11,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "td_sallers")
+@Table(name = "tb_sellers")
 public class Seller {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -44,7 +44,7 @@ public class Seller {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public List<Sale> getSale(){
+	public List<Sale> getSales(){
 		return sales;
 	}
 	public void addSale(Sale sales) {
